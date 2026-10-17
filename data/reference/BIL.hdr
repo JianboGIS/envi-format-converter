@@ -1,0 +1,12 @@
+ENVI
+description = {
+  Sample data for ENVI format conversion tool (synthetic, rebuilt as 200x204x3)
+}
+samples = 200
+lines = 204
+bands = 3
+header offset = 0
+file type = ENVI Standard
+data type = 1
+interleave = bil
+byte order = 0

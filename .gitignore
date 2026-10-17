@@ -1,0 +1,44 @@
+# ── Visual Studio 临时文件 ─────────────────────────────
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.DotSettings.user
+
+# ── 编译输出目录 ───────────────────────────────────────
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# ── 编译产物 ───────────────────────────────────────────
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.obj
+*.lib
+*.exp
+*.ilk
+*.cache
+*.tlb
+*.tli
+*.tlh
+*.res
+*.resources
+*.manifest
+*.application
+*.msi
+*.msm
+*.msp
+
+# ── 其他 ───────────────────────────────────────────────
+*.log
+*.bak
+*.tmp
+Thumbs.db
+Desktop.ini
